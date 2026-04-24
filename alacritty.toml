@@ -4,11 +4,13 @@ padding.x = 5
 padding.y = 5
 opacity = 0.8
 blur = true
+dimensions.lines = 40
+dimensions.columns = 150
 
 [font]
 normal.family = "Hurmit Nerd Font Mono"
 normal.style = "Regular"
-size = 14.0
+size = 10.0
 
 [font.bold]
 family = "Hurmit Nerd Font Mono"
